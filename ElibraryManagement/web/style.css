@@ -1,0 +1,12 @@
+﻿#footer2{
+    background-color:#751d1d;
+}
+#footer1 {
+    background-color:#cf4b4b;
+}
+.footer-link {
+    color: whitesmoke;
+}
+.footer-link:hover{
+    color:lightgoldenrodyellow;
+}
